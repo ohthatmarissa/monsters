@@ -33,10 +33,11 @@ A website created with HTML, CSS, JavaScript, Node, React where a user can acces
 * HTML
 * CSS   
 * JavaScript
+* React
 * Node.js
 * Node Package Manager
 * Webpack
-* esLint
+
 
 
 ## Support and contact details
