@@ -1,13 +1,13 @@
 # Monsters
 
-#### A web application that acts as an email address book to display names with emails on individual cards
+#### A web application that acts as an email address book to display names with emails on individual cards with a dynamic Search bar
 #### You can check it out here: https://ohthatmarissa.github.io/monsters/
 
 #### By **Marissa Perry**
 
 ## Description
 
-A website created with HTML, CSS, JavaScript, Node, React where a user can access cards with names and email information using APIs.
+A website created with HTML, CSS, JavaScript, Node, React where a user can access cards with names and email information using APIs. And search narrows with every letter entered.
 
 
 ### Specs
